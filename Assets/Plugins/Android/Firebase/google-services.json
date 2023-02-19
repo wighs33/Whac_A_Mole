@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "53594690857",
+    "firebase_url": "https://molegameproject-default-rtdb.firebaseio.com",
+    "project_id": "molegameproject",
+    "storage_bucket": "molegameproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53594690857:android:5cffc674cfdfa9bb795338",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.MoleGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53594690857-o3babka4nbqhic2bskjn81cp3erlilms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DefaultCompany.MoleGame",
+            "certificate_hash": "1f823dafb5e6ed59f8bf8b8e52563d3f30062913"
+          }
+        },
+        {
+          "client_id": "53594690857-iindokochopnt13antm4a2dmstfea95a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYa19YNvECBxFrFBnVbEsv-u0l2ou-VL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53594690857-iindokochopnt13antm4a2dmstfea95a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

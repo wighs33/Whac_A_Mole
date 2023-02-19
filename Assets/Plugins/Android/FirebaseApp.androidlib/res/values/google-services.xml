@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://molegameproject-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">53594690857</string>
+  <string name="google_storage_bucket" translatable="false">molegameproject.appspot.com</string>
+  <string name="project_id" translatable="false">molegameproject</string>
+  <string name="google_api_key" translatable="false">AIzaSyAYa19YNvECBxFrFBnVbEsv-u0l2ou-VL8</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAYa19YNvECBxFrFBnVbEsv-u0l2ou-VL8</string>
+  <string name="google_app_id" translatable="false">1:53594690857:android:5cffc674cfdfa9bb795338</string>
+  <string name="default_android_client_id" translatable="false">53594690857-o3babka4nbqhic2bskjn81cp3erlilms.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">53594690857-iindokochopnt13antm4a2dmstfea95a.apps.googleusercontent.com</string>
+</resources>
